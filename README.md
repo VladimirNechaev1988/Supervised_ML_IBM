@@ -46,4 +46,10 @@ This notebook provides:
 * Modeling and evaluation
 * Using different criteria
 
+## Data sets
+
+* [Car set](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%202/data/FuelConsumptionCo2.csv) for simple, multiple and polynomial regressions
+* [Chine GDP](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%202/data/china_gdp.csv) for non-linear regression
+* [Houses](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/real_estate_data.csv) for regression tree.
+
 All the notebooks are based on the learning material of the IBM Data Science Professional Certificate course material. The data sets are downloaded from the IBM server.
