@@ -2,7 +2,9 @@
 
 The following projects were created while while exploring machine learning with Python at IBM courses. Each notebook contains a detailed description of creating and evaluating a model. The two types of models that are described in these notebooks are regression and classification.
 
-## Simple linear regression
+## Regression
+
+### Simple linear regression
 
 This notebook provides:
 
@@ -11,7 +13,7 @@ This notebook provides:
 * Choosing an appropriate feature
 * Modeling and evaluation
 
-## Multiple linear regression
+### Multiple linear regression
 
 This notebook provides:
 
@@ -20,7 +22,7 @@ This notebook provides:
 * Ordinary least squares
 * Modeling and evaluation
 
-## Polynomial regression
+### Polynomial regression
 
 This notebook deals with:
 
@@ -29,7 +31,7 @@ This notebook deals with:
 * Working with different orders
 * Modeling and evaluating
 
-## Non-linear regression
+### Non-linear regression
 
 This notebook shows:
 
@@ -38,7 +40,7 @@ This notebook shows:
 * Model building and evaluation
 * Process of choosing best parameters
 
-## Regression trees
+### Regression trees
 
 This notebook provides:
 
@@ -47,10 +49,57 @@ This notebook provides:
 * Modeling and evaluation
 * Using different criteria
 
+## Classification
+
+### Decision Trees
+
+This notebook shows:
+
+* Explanation of the decision trees classification algorithm
+* Data preparation
+* Modeling and evaluation
+* Results interpretation
+
+### K-Nearest Neighbours
+
+This notebook deals with:
+
+* Explanation of the KNN algorithm
+* Data preparation and normalization
+* Training, testing and evaluating
+* Experimenting with different numbers of **k**
+
+### Logistic Regression
+
+This notebook shows:
+
+* Explanation of the difference between the linear and logistic regressions
+* Data preparation
+* Training, testing and evaluating using different metrics
+
+### Multi-Class Classification
+
+This notebook deals with:
+
+* Explanation of the multi-class classification algorithm
+* Data preparation and normalization
+* Using Softmax Regression
+* One-vs-all and one-vs-one classifications
+
+### Support Vector Machine
+
+* Explanation of the SVM algorithm
+* Data pre-processing and selection
+* Modeling and evaluating
+
 ## Data sets
 
 * [Car set](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%202/data/FuelConsumptionCo2.csv) for simple, multiple and polynomial regressions
-* [Chine GDP](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%202/data/china_gdp.csv) for non-linear regression
+* [China GDP](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%202/data/china_gdp.csv) for non-linear regression
 * [Houses](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/real_estate_data.csv) for regression tree.
+* [Drug] (https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/drug200.csv)
+* [Telecom] (https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/teleCust1000t.csv)
+* [Churn] (https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/ChurnData.csv)
+* [Cancer] (https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/cell_samples.csv)
 
 All the notebooks are based on the learning material of the IBM Data Science Professional Certificate course material. The data sets are downloaded from the IBM server.
