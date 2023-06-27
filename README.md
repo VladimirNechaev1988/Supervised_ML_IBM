@@ -58,7 +58,7 @@ This notebook shows:
 * Explanation of the decision trees classification algorithm
 * Data preparation
 * Modeling and evaluation
-* Results interpretation
+* Results interpretation and visualisation
 
 ### K-Nearest Neighbours
 
