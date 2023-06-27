@@ -1,6 +1,6 @@
 # Supervised Machine Learning
 
-The following projects were created while while exploring machine learning with Python at IBM courses. Each notebook contains a detailed description of creating and evaluating a model. The two types of models that are described in these notebooks are regression and classification.
+The following projects were created while exploring machine learning with Python at IBM courses. Each notebook contains a detailed description of creating and evaluating a model. The two types of models that are described in these notebooks are regression and classification.
 
 ## Regression
 
